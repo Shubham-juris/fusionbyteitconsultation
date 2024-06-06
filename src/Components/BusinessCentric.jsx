@@ -2,32 +2,32 @@ import React from "react";
 
 const data = [
   {
-    img: "src/Business-Centric-pics/transformation.png",
+    img: "/Business-Centric-pics/transformation.png",
     title: "Didital Tranformation",
   },
 
   {
-    img: "src/Business-Centric-pics/custom.png",
+    img: "/Business-Centric-pics/custom.png",
     title: "Coustom Software Development",
   },
 
   {
-    img: "src/Business-Centric-pics/mobile-development.png",
+    img: "/Business-Centric-pics/mobile-development.png",
     title: "Mobile App Development",
   },
 
   {
-    img: "src/assets/BusinessCentric-jpg/engineering.png",
+    img: "/Business-Centric-pics/engineering.png",
     title: "QA Automation",
   },
 
   {
-    img: "src/Business-Centric-pics/cloud-data.png",
+    img: "/Business-Centric-pics/cloud-data.png",
     title: "Cloud Optimization",
   },
 
   {
-    img: "src/Business-Centric-pics/cyber-security.png",
+    img: "/Business-Centric-pics/cyber-security.png",
     title: "Cyber Security",
   },
 ];
@@ -50,8 +50,11 @@ function BusinessCentric() {
         </p>
 
         <div className="py-16 mx-36  flex flex-wrap justify-center items-center gap-16 gap-x-36  ">
-          {data.map((d) => (
-            <div className="group shrink-0 h-64 w-48 rounded-md shadow-[0_10px_60px_5px_rgba(0.3,0.3,0.3,0.3)] flex  flex-col font-semibold text-center justify-center items-center ">
+          {data.map((d, index) => (
+            <div
+              key={index}
+              className="group shrink-0 h-64 w-48 rounded-md shadow-[0_10px_60px_5px_rgba(0.3,0.3,0.3,0.3)] flex  flex-col font-semibold text-center justify-center items-center "
+            >
               <div className=" flex flex-col items-center px-2 gap-2 text-center">
                 <img
                   src={d.img}
@@ -80,7 +83,7 @@ function BusinessCentric() {
           </p>
         </div>
         <div>
-          <img src="src/assets/BusinessCentric-jpg/images-3.jpg" alt="" />
+          <img src="public/Business-Centric-pics/images-3.jpg" alt="" />
         </div>
       </div>
     </div>
