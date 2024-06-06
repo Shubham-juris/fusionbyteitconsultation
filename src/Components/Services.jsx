@@ -2,26 +2,26 @@ import React from "react";
 
 const data = [
   {
-    img: "src/assets/Services-jpg/cyber-security.png",
+    img: "/Services-jpg/cyber-security.png",
     text: "AI/ML Development",
   },
   {
-    img: "src/assets/Services-jpg/cloud-computing.png",
+    img: "/Services-jpg/cloud-computing.png",
     text: "Modernize Software",
   },
   {
-    img: "src/assets/Services-jpg/cloud.png",
+    img: "/Services-jpg/cloud.png",
     text: "Cloud Consulting Services",
   },
   {
-    img: "src/assets/Services-jpg/digital-marketing.png",
+    img: "/Services-jpg/digital-marketing.png",
     text: "Cyber Security Solutions",
   },
   {
-    img: "src/assets/Services-jpg/politician.png",
+    img: "/Services-jpg/politician.png",
     text: "Digital Marketing",
   },
-  { img: "src/assets/Services-jpg/setting.png", text: "Political Campaign" },
+  { img: "/Services-jpg/setting.png", text: "Political Campaign" },
 ];
 
 function Services() {
