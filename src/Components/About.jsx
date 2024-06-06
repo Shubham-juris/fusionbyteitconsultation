@@ -13,7 +13,7 @@ const About = () => {
       </div>
 
       <div className=" h-80  flex relative  ">
-        <img src="src/About-pics/About.JPG" className=" w-full object-cover" />
+        <img src="/About-pics/About.JPG" className=" w-full object-cover" />
         <div className="absolute text-white text-2xl sm:text-5xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
           <p>About Us</p>
         </div>
