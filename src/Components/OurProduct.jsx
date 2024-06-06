@@ -8,7 +8,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border  bg-gradient-to-r from-teal-400 to-indigo-600">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/book.png" alt="" />
+            <img src="/OurProducts/Business/book.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Edutask</p>
@@ -20,7 +20,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/bus.png" alt="" />
+            <img src="/OurProducts/Business/bus.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Bus365</p>
@@ -32,7 +32,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border  bg-gradient-to-r from-teal-400 to-indigo-600">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/chat.png" alt="" />
+            <img src="/OurProducts/Business/chat.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Tradebox</p>
@@ -44,7 +44,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/erp.png" alt="" />
+            <img src="/OurProducts/Business/erp.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold"> ERP</p>
@@ -55,7 +55,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border  bg-gradient-to-r from-teal-400 to-indigo-600">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/flight.png" alt="" />
+            <img src="/OurProducts/Business/flight.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Flight Booking</p>
@@ -66,7 +66,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/garage.png" alt="" />
+            <img src="/OurProducts/Business/garage.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold"> GMS</p>
@@ -77,7 +77,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border  bg-gradient-to-r from-teal-400 to-indigo-600">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/hr4.png" alt="" />
+            <img src="/OurProducts/Business/hr4.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">HR Manager</p>
@@ -88,7 +88,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/inventory.png" alt="" />
+            <img src="/OurProducts/Business/inventory.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold"> Wholesale</p>
@@ -100,7 +100,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border  bg-gradient-to-r from-teal-400 to-indigo-600">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Business/vms.png" alt="" />
+            <img src="/OurProducts/Business/vms.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold"> VSG </p>
@@ -114,7 +114,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/BlockChain/crypto.png" alt="" />
+            <img src="/OurProducts/BlockChain/crypto.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Nishue</p>
@@ -126,7 +126,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/BlockChain/cryptoW.png" alt="" />
+            <img src="/OurProducts/BlockChain/cryptoW.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">ICO Wallet</p>
@@ -139,7 +139,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/BlockChain/exchange.png" alt="" />
+            <img src="/OurProducts/BlockChain/exchange.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold"></p>
@@ -150,7 +150,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/BlockChain/token.png" alt="" />
+            <img src="/OurProducts/BlockChain/token.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Tokenbox</p>
@@ -164,7 +164,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Hospitality/flight.png" alt="" />
+            <img src="/OurProducts/Hospitality/flight.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Flight Booking</p>
@@ -175,7 +175,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Hospitality/manager.png" alt="" />
+            <img src="/OurProducts/Hospitality/manager.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Bhojan</p>
@@ -186,7 +186,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Hospitality/managerH.png" alt="" />
+            <img src="/OurProducts/Hospitality/managerH.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Xain</p>
@@ -200,7 +200,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/E-Commerce/cashier.png" alt="" />
+            <img src="/OurProducts/E-Commerce/cashier.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Isshue</p>
@@ -212,7 +212,7 @@ function OurProduct() {
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
             <img
-              src="src/assets/OurProducts/E-Commerce/shopping-cart.png"
+              src="/OurProducts/E-Commerce/shopping-cart.png"
               alt=""
             />
           </div>
@@ -228,7 +228,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Healthcare/clinic.png" alt="" />
+            <img src="/OurProducts/Healthcare/clinic.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Hospital Automanager</p>
@@ -239,7 +239,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Healthcare/doctor.png" alt="" />
+            <img src="/OurProducts/Healthcare/doctor.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Hospital</p>
@@ -251,7 +251,7 @@ function OurProduct() {
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
             <img
-              src="src/assets/OurProducts/Healthcare/domain-registration.png"
+              src="/OurProducts/Healthcare/domain-registration.png"
               alt=""
             />
           </div>
@@ -265,7 +265,7 @@ function OurProduct() {
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
             <img
-              src="src/assets/OurProducts/Healthcare/healthcare1.png"
+              src="/OurProducts/Healthcare/healthcare1.png"
               alt=""
             />
           </div>
@@ -279,7 +279,7 @@ function OurProduct() {
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
             <img
-              src="src/assets/OurProducts/Healthcare/management-service.png"
+              src="/OurProducts/Healthcare/management-service.png"
               alt=""
             />
           </div>
@@ -292,7 +292,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Healthcare/payment.png" alt="" />
+            <img src="/OurProducts/Healthcare/payment.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">Doctors</p>
@@ -303,7 +303,7 @@ function OurProduct() {
       <div class="h-28 w-96 rounded-lg border bg-gradient-to-r from-gray-200 to-blue-300">
         <div className="flex flex-row">
           <div className="h-28 w-24  flex justify-center items-center  p-3">
-            <img src="src/assets/OurProducts/Healthcare/pharmacy.png" alt="" />
+            <img src="/OurProducts/Healthcare/pharmacy.png" alt="" />
           </div>
           <div className="flex flex-col justify-center">
             <p className="font-bold">G-Priscription</p>
