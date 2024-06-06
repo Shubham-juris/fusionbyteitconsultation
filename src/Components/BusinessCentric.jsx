@@ -83,7 +83,7 @@ function BusinessCentric() {
           </p>
         </div>
         <div>
-          <img src="public/Business-Centric-pics/images-3.jpg" alt="" />
+          <img src="/Business-Centric-pics/images-3.jpg" alt="" />
         </div>
       </div>
     </div>
