@@ -92,7 +92,7 @@ const Nabbar = () => {
         <div className="">
           <div className=" sm:pl-12">
             <img
-              src="src/assets/658a88a7-2f6f-4320-98e4-d418800fd395-removebg-preview.png"
+              src="/Main-Logo.png"
               alt=""
               className="w-40 sm:w-auto max-h-16"
             />
