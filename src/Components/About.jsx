@@ -132,18 +132,18 @@ const About = () => {
             <div className="flex justify-center pt-12  ">
               <div className="border-gray-300  border-1 hover:bg-orange-300 transition-all duration-300 p-3">
                 <img
-                  src="src/About-pics/amazon-web-services-logo.jpg.webp"
+                  src="/About-pics/amazon-web-services-logo.jpg.webp"
                   alt=""
                 />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Apple-1.png.webp" alt="" />
+                <img src="/About-pics/Apple-1.png.webp" alt="" />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Automation-Anywhere.png.webp" alt="" />
+                <img src="/About-pics/Automation-Anywhere.png.webp" alt="" />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Bing-Partner.png.webp" alt="" />
+                <img src="/About-pics/Bing-Partner.png.webp" alt="" />
               </div>
             </div>
           </div>
@@ -152,21 +152,21 @@ const About = () => {
             <div className="flex justify-center  ">
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
                 <img
-                  src="src/About-pics/Blue-Prism-Delivery-Partner.png.webp"
+                  src="/About-pics/Blue-Prism-Delivery-Partner.png.webp"
                   alt=""
                 />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
                 <img
-                  src="src/About-pics/cloud-migarator-logo.jpg.webp"
+                  src="/About-pics/cloud-migarator-logo.jpg.webp"
                   alt=""
                 />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Google-Partner.png.webp" alt="" />
+                <img src="/About-pics/Google-Partner.png.webp" alt="" />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Group-19-1.png.webp" alt="" />
+                <img src="/About-pics/Group-19-1.png.webp" alt="" />
               </div>
             </div>
           </div>
@@ -174,19 +174,19 @@ const About = () => {
           <div>
             <div className="flex justify-center  ">
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/Group-19.png.webp" alt="" />
+                <img src="/About-pics/Group-19.png.webp" alt="" />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
                 <img
-                  src="src/About-pics/microsoft-goldlogo-small.jpg.webp"
+                  src="/About-pics/microsoft-goldlogo-small.jpg.webp"
                   alt=""
                 />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/UI-Path-Partner.png.webp" alt="" />
+                <img src="/About-pics/UI-Path-Partner.png.webp" alt="" />
               </div>
               <div className="border-gray-300 border-1 hover:bg-orange-300 transition-all duration-300 p-3">
-                <img src="src/About-pics/vm-wave-logo.jpg.webp" alt="" />
+                <img src="/About-pics/vm-wave-logo.jpg.webp" alt="" />
               </div>
             </div>
           </div>
