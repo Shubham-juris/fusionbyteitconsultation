@@ -21,7 +21,10 @@ const ContactUs = () => {
       </div>
 
       <div className=" h-80  flex relative ">
-        <img src="src/About-pics/About.JPG" className=" w-full object-cover" />
+        <img
+          src="/About-pics/About-Main.webp"
+          className=" w-full object-cover"
+        />
         <div className="absolute text-white text-2xl sm:text-5xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
           <p>Contact us</p>
         </div>
@@ -121,9 +124,7 @@ const ContactUs = () => {
         </div>
 
         <div className="flex sm:justify-end py-3 gap-4 justify-center sm:text-lg text-sm">
-          
-
-          <button className="bg-red-600 sm:px-12 rounded-xl text-white font-bold py-4 sm:w-60 w-1/2 ">
+          <button className="bg-red-600 sm:px-12 hover:bg-red-900 transition-all duration-500 rounded-xl text-white font-bold py-4 sm:w-60 w-1/2 ">
             Submit Message
           </button>
         </div>
