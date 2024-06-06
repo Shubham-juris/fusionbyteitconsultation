@@ -2,51 +2,51 @@ import React from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { SlCalender } from "react-icons/sl";
 import Nabbar from "./Nabbar";
-import Footer from "./Footer"
+import Footer from "./Footer";
 
 const card = [
   {
-    img: "src/assets/Blog-jpg/01-1.png",
+    img: "/Blog-jpg/01-1.png",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/01.png",
+    img: "/Blog-jpg/01.png",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/10-Information-Technology-Audit-Report-Samples-Templates-PDF-Word.jpg",
+    img: "/Blog-jpg/10-Information-Technology-Audit-Report-Samples-Templates-PDF-Word.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/about-1.jpg",
+    img: "/Blog-jpg/about-1.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/banner-finance.jpg",
+    img: "/Blog-jpg/banner-finance.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/banner2.jpg",
+    img: "/Blog-jpg/banner2.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/Recruitment-Agency-in-India.jpg",
+    img: "/Blog-jpg/Recruitment-Agency-in-India.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/Requirement.png",
+    img: "/Blog-jpg/Requirement.png",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
   {
-    img: "src/assets/Blog-jpg/service-detail.jpg",
+    img: "/Blog-jpg/service-detail.jpg",
     topText:
       " Are Recruitment Agencies Helpful To Get A Job In Information Technology?",
   },
@@ -60,28 +60,15 @@ const Blog = () => {
       </div>
 
       <div>
-
-
-
-
-      <div className=" h-80  flex relative ">
-        <img
-          src="src/assets/Blog-jpg/Our-Blog (2).jpg"
-          className=" w-full object-cover"
-        />
-        <div className="absolute text-white text-2xl sm:text-5xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
-          <p>Our Blog</p>
+        <div className=" h-80  flex relative ">
+          <img
+            src="/Blog-jpg/Our-Blog (2).jpg"
+            className=" w-full object-cover"
+          />
+          <div className="absolute text-white text-2xl sm:text-5xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
+            <p>Our Blog</p>
+          </div>
         </div>
-      </div>
-
-
-
-
-
-
-
-
-        
 
         <div className="flex px-14 gap-4 flex-wrap justify-center py-3 ">
           {card.map((d, i) => (
@@ -120,11 +107,10 @@ const Blog = () => {
 
         <div className="flex items-center text-center py-8 px-3 flex-col bg-indigo-900 text-white hover:bg-red-600 transition-all duration-700">
           <p className="text-2xl font-semibold ">Got A Question?</p>
-          <p>We're here to help. Send us an email or call us at 9821548XXX</p>
+          <p>We're here to help. Send us an email or call us at 9155889801</p>
         </div>
       </div>
       <Footer />
-  
     </div>
   );
 };

@@ -16,21 +16,21 @@ function HeroCarousel() {
             data-bs-interval="4500"
           >
             <img
-              src="src/assets/DeWatermark.ai_1710827196818.jpg"
+              src="/HeroCarousel-pics/DeWatermark.ai_1710827225330.jpg"
               className="d-block w-100 w-full"
               alt="..."
             />
           </div>
           <div className="carousel-item" data-bs-interval="4500">
             <img
-              src="src/assets/DeWatermark.ai_1710827225330.jpg"
+              src="/HeroCarousel-pics/pic-1-transformed.jpg"
               className="d-block w-100"
               alt="..."
             />
           </div>
           <div className="carousel-item" data-bs-interval="4500">
             <img
-              src="src/assets/pic-1-transformed.jpg"
+              src="/HeroCarousel-pics/DeWatermark.ai_1710827196818.jpg"
               className="d-block w-100"
               alt="..."
             />

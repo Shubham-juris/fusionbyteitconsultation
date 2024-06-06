@@ -25,8 +25,8 @@ function Footer() {
                 Haryana 122002.
               </p>
               <p>
-                Phone: +91 628786XXXX
-                <br /> Email: info@nawalsustainability.in
+                Phone: +91 9155889801
+                <br /> Email: ghricheak@gmail.com
               </p>
             </div>
           </div>
@@ -154,7 +154,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-            © Copyright Nawal Sustainability Services. All Rights Reserved
+            © Copyright Hricheak Ghosh. All Rights Reserved
           </p>
         </div>
       </div>
