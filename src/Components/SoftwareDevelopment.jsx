@@ -6,26 +6,19 @@ import Nabbar from "./Nabbar";
 const SoftwareDevelopment = () => {
   return (
     <div>
+      <div>
+        <Nabbar />
+      </div>
 
-<div>
-  <Nabbar/>
-</div>
-    
-
-
-
-    
       <div className=" h-80  flex relative ">
         <img
-          src="src/assets/SoftwareDevelopment-PICS/SD-Pics-1.webp"
+          src="/SoftwareDevelopment-PICS/SD-Pics-1.webp"
           className=" w-full object-cover"
         />
         <div className="absolute text-white text-2xl sm:text-5xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
           <p>Software Product Development</p>
         </div>
       </div>
-
-
 
       <div className="py-20 px-2 text-center font-semibold text-5xl flex justify-center text-yellow-600">
         <p>Who We Are Right Fit For ?</p>
@@ -77,7 +70,7 @@ const SoftwareDevelopment = () => {
         <div className="flex flex-col px-4 pb-12 gap-20 w-full">
           <div className=" flex flex-col sm:flex-row justify-between">
             <div className="flex justify-center">
-              <img src="src/assets/SoftwareDevelopment-PICS/Pic-1.JPG" alt="" />
+              <img src="/SoftwareDevelopment-PICS/Pic-1.JPG" alt="" />
             </div>
 
             <div className="sm:w-2/4">
@@ -141,7 +134,7 @@ const SoftwareDevelopment = () => {
             <div className="flex justify-center ">
               <img
                 className="object-contain"
-                src="src/assets/SoftwareDevelopment-PICS/Pic-2.JPG"
+                src="/SoftwareDevelopment-PICS/Pic-2.JPG"
                 alt=""
               />
             </div>
@@ -210,7 +203,7 @@ const SoftwareDevelopment = () => {
             <div className="flex justify-center">
               <img
                 className="object-contain"
-                src="src/assets/SoftwareDevelopment-PICS/Pic-3.JPG"
+                src="/SoftwareDevelopment-PICS/Pic-3.JPG"
                 alt=""
               />
             </div>
@@ -265,7 +258,7 @@ const SoftwareDevelopment = () => {
             <div className="flex justify-center">
               <img
                 className="object-contain"
-                src="src/assets/SoftwareDevelopment-PICS/Pic-4.JPG"
+                src="/SoftwareDevelopment-PICS/Pic-4.JPG"
                 alt=""
               />
             </div>
@@ -320,7 +313,7 @@ const SoftwareDevelopment = () => {
             <div className="flex justify-center">
               <img
                 className="object-contain"
-                src="src/assets/SoftwareDevelopment-PICS/Pics-5.JPG"
+                src="/SoftwareDevelopment-PICS/Pics-5.JPG"
                 alt=""
               />
             </div>

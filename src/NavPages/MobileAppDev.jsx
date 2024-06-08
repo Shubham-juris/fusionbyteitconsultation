@@ -9,7 +9,7 @@ const MobileAppDev = () => {
       <Nabbar />
       <div className=" h-56  bg-red-400 flex relative ">
         <img
-          src=" src/assets/Mobile-App-Dev-Pics/dowffnload.webp "
+          src=" /Mobile-App-Dev-Pics/dowffnload.webp "
           className=" w-full object-cover"
           alt=""
         />
@@ -31,7 +31,7 @@ const MobileAppDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Mobile-App-Dev-Pics/downloggtad.webp"
+              src="/Mobile-App-Dev-Pics/downloggtad.webp"
               className=""
               alt=""
             />
@@ -51,7 +51,7 @@ const MobileAppDev = () => {
         <div className="border   px-8  py-10 flex flex-col text-center  sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Mobile-App-Dev-Pics/downlerggoad.webp"
+              src="/Mobile-App-Dev-Pics/downlerggoad.webp"
               alt=""
             />
           </div>
@@ -68,7 +68,7 @@ const MobileAppDev = () => {
 
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/Mobile-App-Dev-Pics/dogghwnload.webp" alt="" />
+            <img src="/Mobile-App-Dev-Pics/dogghwnload.webp" alt="" />
           </div>
 
           <span className="py-4">
@@ -83,7 +83,7 @@ const MobileAppDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Mobile-App-Dev-Pics/downlththoad.webp"
+              src="/Mobile-App-Dev-Pics/downlththoad.webp"
               alt=""
             />
           </div>
@@ -99,7 +99,7 @@ const MobileAppDev = () => {
 
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/Mobile-App-Dev-Pics/dowhthnload.webp" alt="" />
+            <img src="/Mobile-App-Dev-Pics/dowhthnload.webp" alt="" />
           </div>
           <span className="py-4">
           Engage with the ISHIR for faster and cutting-edge Progressive Web App (PWA) Development Services The Progressive Web App (PWA) Framework       </span>
@@ -112,7 +112,7 @@ const MobileAppDev = () => {
 
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/Mobile-App-Dev-Pics/dorrwnload.webp" alt="" />
+            <img src="/Mobile-App-Dev-Pics/dorrwnload.webp" alt="" />
           </div>
           <span className="py-4">
           Get high-quality and feature enriched mobile apps with React Native Development capabilities React Native is the next big word in
