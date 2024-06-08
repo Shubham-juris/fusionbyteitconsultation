@@ -10,7 +10,7 @@ const FrontEndDev = () => {
 
       <div className=" h-56  bg-red-400 flex relative ">
         <img
-          src=" src/assets/Front-End-Dev-jpg/dowffnload.webp"
+          src="/Front-End-Dev-jpg/dowffnload.webp"
           className=" w-full object-cover"
           alt=""
         />
@@ -32,7 +32,7 @@ const FrontEndDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Front-End-Dev-jpg/vuejs.png.webp"
+              src="/Front-End-Dev-jpg/vuejs.png.webp"
               className=""
               alt=""
             />
@@ -52,7 +52,7 @@ const FrontEndDev = () => {
 
         <div className="border   px-8  py-10 flex flex-col text-center  sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/Front-End-Dev-jpg/bootstrap.png.webp" alt="" />
+            <img src="/Front-End-Dev-jpg/bootstrap.png.webp" alt="" />
           </div>
 
           <span className="py-4">
@@ -69,7 +69,7 @@ const FrontEndDev = () => {
 
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/Front-End-Dev-jpg/reactjs.png.webp" alt="" />
+            <img src="/Front-End-Dev-jpg/reactjs.png.webp" alt="" />
           </div>
 
           <span className="py-4">
@@ -87,7 +87,7 @@ const FrontEndDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Front-End-Dev-jpg/angular-logo.png.webp"
+              src="/Front-End-Dev-jpg/angular-logo.png.webp"
               alt=""
             />
           </div>
@@ -107,7 +107,7 @@ const FrontEndDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Front-End-Dev-jpg/angular-logo.jpg.webp"
+              src="/Front-End-Dev-jpg/angular-logo.jpg.webp"
               alt=""
             />
           </div>
@@ -127,7 +127,7 @@ const FrontEndDev = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/Front-End-Dev-jpg/rails-logo.jpg.webp"
+              src="/Front-End-Dev-jpg/rails-logo.jpg.webp"
               alt=""
             />
           </div>

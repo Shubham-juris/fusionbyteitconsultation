@@ -16,11 +16,11 @@ import Footer from "./Footer";
 const ContactUs = () => {
   return (
     <div>
-      <div className=" w-full ">
+      <div className="w-full">
         <Nabbar />
       </div>
 
-      <div className=" h-80  flex relative ">
+      <div className=" h-80 flex relative">
         <img
           src="/About-pics/About-Main.webp"
           className=" w-full object-cover"
