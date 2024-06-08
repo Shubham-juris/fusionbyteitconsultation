@@ -10,7 +10,7 @@ const DataBase = () => {
 
       <div className=" h-56  bg-red-400 flex relative ">
         <img
-          src=" src/assets/DataBase-Pics/dowgeggnload.webp"
+          src=" /DataBase-Pics/dowgeggnload.webp"
           className=" w-full object-cover"
           alt=""
         />
@@ -32,7 +32,7 @@ const DataBase = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/DataBase-Pics/oracle-logo.jpg.webp"
+              src="/DataBase-Pics/oracle-logo.jpg.webp"
               className=""
               alt=""
             />
@@ -51,7 +51,7 @@ const DataBase = () => {
 
         <div className="border   px-8  py-10 flex flex-col text-center  sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/DataBase-Pics/mongo-bg-logo.jpg.webp" alt="" />
+            <img src="/DataBase-Pics/mongo-bg-logo.jpg.webp" alt="" />
           </div>
 
           <span className="py-4">
@@ -69,7 +69,7 @@ const DataBase = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/DataBase-Pics/azure-sql-logo.jpg.webp"
+              src="/DataBase-Pics/azure-sql-logo.jpg.webp"
               alt=""
             />
           </div>
@@ -87,7 +87,7 @@ const DataBase = () => {
 
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
-            <img src="src/assets/DataBase-Pics/my-sql-logo.jpg.webp" alt="" />
+            <img src="/DataBase-Pics/my-sql-logo.jpg.webp" alt="" />
           </div>
 
           <span className="py-4">
@@ -105,7 +105,7 @@ const DataBase = () => {
         <div className="border  px-8  py-10 flex flex-col text-center sm:w-1/3 ">
           <div className="flex justify-center pb-1">
             <img
-              src="src/assets/DataBase-Pics/sql-server-logo.jpg.webp"
+              src="/DataBase-Pics/sql-server-logo.jpg.webp"
               alt=""
             />
           </div>
