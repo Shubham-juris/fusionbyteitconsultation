@@ -74,8 +74,8 @@ const Nabbar = () => {
       <div
         className={
           navbar
-            ? "bg-gray-500 duration-300 fixed top-0 flex w-full  z-10 items-center"
-            : "  duration-300 fixed top-0 flex w-full  z-10 items-center "
+            ? "bg-blue-400 duration-300 fixed top-0 flex w-full  z-10 items-center py-2"
+            : "   duration-300 fixed top-0 flex w-full  z-10 items-center py-2 "
         }
         // className=" z-10 flex fixed justify-between sm:justify-start items-center w-full pt-3 bg-red-300 "
       >

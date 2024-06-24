@@ -6,10 +6,10 @@ function Contact() {
   const [form, setForm] = useState(false);
 
   return (
-    <div className="">
+    <div className="absolute z-20">
       <div onClick={() => setForm((perv) => !perv)} className="cursor-pointer">
         <div className="fixed bottom-2/4 right-14 ">
-          <div className="  sm:text-2xl font-semibold z-0">
+          <div className="  sm:text-2xl font-semibold">
             <div>
               <GrNotes className="sm:h-14 h-8 w-full text-black" />
             </div>
@@ -77,7 +77,13 @@ function Contact() {
               </button>
 
               <button className="bg-green-600 h-10  rounded-md  font-bold w-1/2">
-                Whatsapp Us
+                <a
+                  href="https://api.whatsapp.com/send/?phone=9024833455&text&type=phone_number&app_absent=0"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Whatsapp Us
+                </a>
               </button>
             </div>
           </div>

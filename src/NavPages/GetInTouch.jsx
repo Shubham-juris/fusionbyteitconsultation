@@ -5,15 +5,19 @@ const GetInTouch = () => {
   return (
     <div>
       <Nabbar />
-      <div className="flex w-screen gap-8 px-10 justify-center sm:flex-row flex-col bg-white py-20">
+      <div className="flex gap-8 px-10 justify-center sm:flex-row flex-col bg-white py-20">
         <div className="flex relative justify-center items-center text-2xl  group">
           <img src="/Get-In-Touch-Pics/doiiiknload.webp" alt="" />
-          <p className="absolute text-white px-4 text-center group-hover:-translate-y-2 duration-1000">Let's Talk</p>
+          <p className="absolute text-white px-4 text-center group-hover:-translate-y-2 duration-1000">
+            Let's Talk
+          </p>
         </div>
 
         <div className="flex relative   justify-center items-center group text-2xl  ">
           <img src="/Get-In-Touch-Pics/dokikiwnload.webp" alt="" />
-          <p className="absolute text-white px-4 text-center group-hover:-translate-y-2 duration-1000">We're Hiring</p>
+          <p className="absolute text-white px-4 text-center group-hover:-translate-y-2 duration-1000">
+            We're Hiring
+          </p>
         </div>
 
         <div className="flex relative  justify-center items-center text-2xl group ">
@@ -44,7 +48,6 @@ const GetInTouch = () => {
           </div>
         </div>
       </div>
-
     </div>
   );
 };

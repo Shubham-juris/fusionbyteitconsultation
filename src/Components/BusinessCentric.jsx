@@ -2,39 +2,44 @@ import React from "react";
 
 const data = [
   {
-    img: "/Business-Centric-pics/transformation.png",
-    title: "Didital Tranformation",
+    img: "/Business-Centric-pics/7655685.png",
+    title: "Digital Transformation",
   },
 
   {
-    img: "/Business-Centric-pics/custom.png",
-    title: "Coustom Software Development",
+    img: "/Business-Centric-pics/12372208.png",
+    title: "Custom Software Development",
   },
 
   {
-    img: "/Business-Centric-pics/mobile-development.png",
+    img: "/Business-Centric-pics/5608615.png",
     title: "Mobile App Development",
   },
 
   {
-    img: "/Business-Centric-pics/engineering.png",
+    img: "/Business-Centric-pics/2103751.png",
     title: "QA Automation",
   },
 
   {
-    img: "/Business-Centric-pics/cloud-data.png",
+    img: "/Business-Centric-pics/9732077.png",
     title: "Cloud Optimization",
   },
 
   {
-    img: "/Business-Centric-pics/cyber-security.png",
+    img: "/Business-Centric-pics/4744315.png",
     title: "Cyber Security",
   },
-];
-
+  {
+    img: "/Business-Centric-pics/4529976.png",
+    title: "Artificial Intelligence",
+  },
+  {
+    img: "/Business-Centric-pics/6974613.png",
+    title: "Blockchain Solutions",
+  },
+];    
 function BusinessCentric() {
-  
-  
   return (
     <div className="px-2  py-14">
       <div className="sm:px-12">
@@ -51,7 +56,7 @@ function BusinessCentric() {
           Straightforward solutions to complex business challenges.
         </p>
 
-        <div className="py-16 mx-36  flex flex-wrap justify-center items-center gap-16 gap-x-36  ">
+        <div className="py-16  flex flex-wrap justify-center items-center gap-16 gap-x-36  ">
           {data.map((d, index) => (
             <div
               key={index}
@@ -61,7 +66,7 @@ function BusinessCentric() {
                 <img
                   src={d.img}
                   alt=""
-                  className="group-hover:-translate-y-2 duration-500"
+                  className="group-hover:-translate-y-2 duration-500 "
                 />
                 <p>{d.title}</p>
               </div>

@@ -25,8 +25,8 @@ function Footer() {
                 Haryana 122002.
               </p>
               <p>
-                Phone: +91 9155889801
-                <br /> Email: ghricheak@gmail.com
+                Phone: +91 9024833455
+                <br /> Email: thenawalorghrd@gmail.com
               </p>
             </div>
           </div>
@@ -140,10 +140,40 @@ function Footer() {
               <Link to={"/contactus"}>Get in Touch</Link>
             </a>
             <div className="text-white flex flex-wrap  gap-2 pt-3">
-              <FaFacebookSquare size={25} />
-              <FaInstagram size={25} />
-              <FaYoutube size={25} />
-              <IoLogoLinkedin size={25} />
+              <div>
+                <a href="" target="_blank" rel="noopener noreferrer">
+                  <FaFacebookSquare size={25} />
+                </a>
+              </div>
+
+              <div>
+                <a
+                  href="https://www.instagram.com/arisezen2024/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaInstagram size={25} />
+                </a>
+              </div>
+              <div>
+                <a
+                  href=""
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaYoutube size={25} />
+                </a>
+              </div>
+
+              <div>
+                <a
+                  href="https://www.linkedin.com/showcase/arisezen/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <IoLogoLinkedin size={25} />
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -154,7 +184,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-            © Copyright Hricheak Ghosh. All Rights Reserved
+          © Copyright Nawal Sustainability Group. All Rights Reserved
           </p>
         </div>
       </div>

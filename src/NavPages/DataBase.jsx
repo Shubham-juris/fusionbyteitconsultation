@@ -13,7 +13,7 @@ const DataBase = () => {
     <div>
       <Nabbar />
 
-      <div className=" h-56  bg-red-400 flex relative ">
+      <div className=" h-56 flex relative ">
         <img
           src=" /DataBase-Pics/dowgeggnload.webp"
           className=" w-full object-cover"
