@@ -72,7 +72,7 @@ function Footer() {
               href="#"
               class="text-gray-400 hover:text-gray-100 transition duration-300"
             >
-              Privacy policy
+              <Link to={"/privacy"}>Privacy policy</Link>
             </a>
           </div>
           <div className="text-white flex flex-col gap-2 py-3">

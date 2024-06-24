@@ -1,9 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import GetInTouch from "./GetInTouch";
 import Footer from "../Components/Footer";
 import Nabbar from "../Components/Nabbar";
 
 const MobileAppDev = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <div>
       <Nabbar />

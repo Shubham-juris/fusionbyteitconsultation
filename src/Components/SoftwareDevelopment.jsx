@@ -1,9 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { MdArrowOutward } from "react-icons/md";
 import Footer from "./Footer";
 import Nabbar from "./Nabbar";
 
 const SoftwareDevelopment = () => {
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <div>
       <div>

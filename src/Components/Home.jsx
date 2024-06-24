@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import HeroCarousel from "./HeroCarousel";
 import Services from "./Services";
 import OurProduct from "./OurProduct";
@@ -14,6 +14,12 @@ import FaqAccordion from "./FaqAccordion";
 
 
 const Home = () => {
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <>
       <HeroCarousel />

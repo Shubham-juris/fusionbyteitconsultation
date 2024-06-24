@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";
 import { SlCalender } from "react-icons/sl";
 import Nabbar from "./Nabbar";
@@ -53,6 +53,13 @@ const card = [
 ];
 
 const Blog = () => {
+
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <div>
       <div className="">

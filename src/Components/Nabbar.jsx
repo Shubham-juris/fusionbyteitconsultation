@@ -34,37 +34,27 @@ const Nabbar = () => {
           <div className="flex flex-col pt-8 text-white text-2xl font-semibold  text-center gap-4 ">
             <Link to={"/"}>HOME</Link>
 
-
-
             <div className=" relative group ">
-            <p className="hover:cursor-pointer relative group hover:bg-white hover:text-black transition-all duration-200 px-2 group-hover:bg-white group-hover:text-black ">
-              SERVICES
-            </p>
+              <p className="hover:cursor-pointer relative group hover:bg-white hover:text-black transition-all duration-200 px-2 group-hover:bg-white group-hover:text-black ">
+                SERVICES
+              </p>
 
-            <div className="text-xs pt-1 px-2 pb-1 text-black group-hover:bg-white gap-2.5 absolute transition-all duration-200 flex flex-col group  max-h-0 overflow-hidden group-hover:max-h-72 w-44 ">
-              <span className="hover:cursor-pointer">
-                <Link to={"/softwaredevelopment"}>SoftwareDevelopment</Link>
-              </span>
-              <span className="hover:cursor-pointer">Consultansy</span>
-              <span className="hover:cursor-pointer">Testing</span>
-              <span className="hover:cursor-pointer">Emerging</span>
-              <span className="hover:cursor-pointer">Cloud</span>
-              <span className="hover:cursor-pointer">Data Analytics</span>
-              <span className="hover:cursor-pointer">Staff Augmentation</span>
-              <span className="hover:cursor-pointer">
-                Projct Management Services
-              </span>
+              <div className="text-xs pt-1 px-2 pb-1 text-black group-hover:bg-white gap-2.5 absolute transition-all duration-200 flex flex-col group  max-h-0 overflow-hidden group-hover:max-h-72 w-44 ">
+                <span className="hover:cursor-pointer">
+                  <Link to={"/softwaredevelopment"}>SoftwareDevelopment</Link>
+                </span>
+                <span className="hover:cursor-pointer">Consultansy</span>
+                <span className="hover:cursor-pointer">Testing</span>
+                <span className="hover:cursor-pointer">Emerging</span>
+                <span className="hover:cursor-pointer">Cloud</span>
+                <span className="hover:cursor-pointer">Data Analytics</span>
+                <span className="hover:cursor-pointer">Staff Augmentation</span>
+                <span className="hover:cursor-pointer">
+                  Projct Management Services
+                </span>
+              </div>
             </div>
-          </div>
-            
-            
-            
-            
-            
-            
-            
-            
-            
+
             <p>
               <Link to={"/about"}> ABOUT </Link>
             </p>
@@ -137,6 +127,13 @@ const Nabbar = () => {
             </p>
 
             <div className="text-xs pt-1 px-2 pb-1 text-black group-hover:bg-white gap-2.5 absolute transition-all duration-200 flex flex-col group  max-h-0 overflow-hidden group-hover:max-h-72 w-44 ">
+              <span className="hover:cursor-pointer">
+                <Link to={"/InternshipAndTraining"}>
+                  {" "}
+                  Internship & Training{" "}
+                </Link>
+              </span>
+
               <span className="hover:cursor-pointer">
                 <Link to={"/frontenddev"}> Front End Development </Link>
               </span>

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { CiFacebook } from "react-icons/ci";
 import { FaXTwitter } from "react-icons/fa6";
 import { CiCirclePlus } from "react-icons/ci";
@@ -6,6 +6,12 @@ import Nabbar from "./Nabbar";
 import Footer from "./Footer";
 
 const About = () => {
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <div>
       <div>

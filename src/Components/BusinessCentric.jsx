@@ -33,6 +33,8 @@ const data = [
 ];
 
 function BusinessCentric() {
+  
+  
   return (
     <div className="px-2  py-14">
       <div className="sm:px-12">

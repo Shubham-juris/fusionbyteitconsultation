@@ -5,7 +5,7 @@ import { IoLogoLinkedin } from "react-icons/io5";
 import { MdCall } from "react-icons/md";
 import { HiOutlineMailOpen } from "react-icons/hi";
 
-import React from "react";
+import React, { useEffect } from "react";
 import { IoLocationSharp } from "react-icons/io5";
 
 import { IoMdPerson } from "react-icons/io";
@@ -14,6 +14,12 @@ import Nabbar from "./Nabbar";
 import Footer from "./Footer";
 
 const ContactUs = () => {
+  
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
+  
   return (
     <div>
       <div className="w-full">

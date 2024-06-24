@@ -11,6 +11,8 @@ import FrontEndDev from "./NavPages/FrontEndDev.jsx";
 import DataBase from "./NavPages/DataBase.jsx";
 import MobileAppDev from "./NavPages/MobileAppDev.jsx";
 import SoftwareDevelopment from "./Components/SoftwareDevelopment.jsx";
+import InternshipAndTraining from "./NavPages/InternshipAndTraining.jsx";
+import Privacy from "./Components/Privacy.jsx";
 
 const router = createBrowserRouter([
   {
@@ -49,6 +51,14 @@ const router = createBrowserRouter([
       {
         path: "/softwaredevelopment",
         element: <SoftwareDevelopment />,
+      },
+      {
+        path: "/privacy",
+        element: <Privacy />,
+      },
+      {
+        path: "/InternshipAndTraining",
+        element: <InternshipAndTraining />,
       },
     ],
   },
