@@ -9,7 +9,7 @@ const Faq = () => {
         <img src="/parallax-5.jpg" className=" w-full object-cover" />
         <div className="absolute text-white text-2xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
           <p>India's Leading Consultancy In Delhi</p>
-          <p>Home / FAQ</p>
+          <p>FAQ</p>
         </div>
       </div>
 
