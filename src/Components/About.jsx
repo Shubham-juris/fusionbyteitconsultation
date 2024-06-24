@@ -41,7 +41,7 @@ const About = () => {
           </p>
 
           <p className="text-lg text-gray-500">
-            ISHIR is Dallas-based digital innovation & enterprise AI studio that
+            Arisezen  is Delhi-based digital innovation & enterprise AI studio that
             empowers ambitious early-stage startups, growth businesses &
             enterprises to design and develop innovative, impactful digital
             products using talented Agile product team PODs.
@@ -125,10 +125,10 @@ const About = () => {
         <div className="px-16  text-3xl">
           <p className="py-8">
             Our partners are leaders in their space and share the same passion
-            as ISHIR.
+            as Arisezen.
           </p>
           <p className="text-gray-500 text-base">
-            ISHIR has partnered with System Integrators, Interactive/Digital
+            Arisezen has partnered with System Integrators, Interactive/Digital
             Agencies and Software Consulting firms to leverage our strengths in
             offshore development and digital production outsourcing services.
             Learn about our Partner Program.
@@ -204,9 +204,10 @@ const About = () => {
           </p>
 
           <p className="text-gray-500 text-base">
-            ISHIR is headquartered in Dallas Fort-Worth, Texas, with global team
-            members from 14+ countries. Our global back-office located in New
-            Delhi NCR (Noida) India supporting our organization worldwide.
+            Arisezen is headquartered in Gurugram,
+            Haryana, with global team
+            members from 14+ countries. Our global back-office located in 
+            Delhi  (Gurugram) India supporting our organization worldwide.
           </p>
 
           <div className="flex ">

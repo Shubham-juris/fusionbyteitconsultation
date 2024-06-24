@@ -184,7 +184,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-          © Copyright Nawal Sustainability Group. All Rights Reserved
+          © Copyright  Arisezen ( A Nawal Sustainability Group Product. ) All Rights Reserved
           </p>
         </div>
       </div>
