@@ -1,4 +1,4 @@
-import { FaFacebookSquare } from "react-icons/fa";
+import { FaFacebookSquare, FaPhoneAlt } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { IoLogoLinkedin } from "react-icons/io5";
@@ -59,20 +59,65 @@ const ContactUs = () => {
 
             <div className="flex gap-3 items-center justify-start">
               <MdCall size={27} className="text-yellow-500" />
-              <p>9155889XXX</p>
+              <p>9024833455</p>
             </div>
 
             <div className="flex gap-3 items-center justify-start">
               <HiOutlineMailOpen size={28} className="text-orange-500" />
-              <p>abcd@gmail.com</p>
+              <p>thenawalorghrd@gmail.com</p>
             </div>
 
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
             <div className="flex gap-3 py-6 text-orange-600 ">
               <FaFacebookSquare size={40} />
-              <FaInstagram size={40} />
+
+
+
+              <div>
+                <a
+                  href="https://www.instagram.com/arisezen2024/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaInstagram size={40} />
+                </a>
+              </div>
               <FaYoutube size={40} />
-              <IoLogoLinkedin size={40} />
+              <div>
+                <a
+                  href="https://www.linkedin.com/showcase/arisezen/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <IoLogoLinkedin size={40} />
+                </a>
+              </div>
             </div>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
           </div>
 
           <div className=" sm:w-2/3 sm:px-4 pt-4 pb-10 ">
@@ -81,7 +126,14 @@ const ContactUs = () => {
             </div>
 
             <div className="flex flex-wrap  justify-center gap-5 py-3 ">
-              <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
+             
+             
+             
+             
+             
+
+
+            <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
                 <IoMdPerson className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
@@ -94,26 +146,36 @@ const ContactUs = () => {
                 <IoMdPerson className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
-                  placeholder="Frist name"
+                  placeholder="Last name"
                   className="outline-none w-5/6 px-1"
                 />
               </div>
               <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
-                <IoMdPerson className=" w-1/6 text-gray-400" />
+                <HiOutlineMailOpen  className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
-                  placeholder="Frist name"
+                  placeholder="Email address"
                   className="outline-none w-5/6 px-1"
                 />
               </div>
               <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
-                <IoMdPerson className=" w-1/6 text-gray-400" />
+                <FaPhoneAlt className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
-                  placeholder="Frist name"
+                  placeholder="Phone number"
                   className="outline-none w-5/6 px-1"
                 />
               </div>
+
+
+
+
+              
+
+
+
+
+              
             </div>
 
             <div className=" border rounded-xl  outline-none  h-52  w-full">
