@@ -14,12 +14,10 @@ import Nabbar from "./Nabbar";
 import Footer from "./Footer";
 
 const ContactUs = () => {
-  
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
 
-  
   return (
     <div>
       <div className="w-full">
@@ -67,20 +65,8 @@ const ContactUs = () => {
               <p>thenawalorghrd@gmail.com</p>
             </div>
 
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
             <div className="flex gap-3 py-6 text-orange-600 ">
               <FaFacebookSquare size={40} />
-
-
 
               <div>
                 <a
@@ -102,22 +88,6 @@ const ContactUs = () => {
                 </a>
               </div>
             </div>
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
-         
           </div>
 
           <div className=" sm:w-2/3 sm:px-4 pt-4 pb-10 ">
@@ -126,14 +96,7 @@ const ContactUs = () => {
             </div>
 
             <div className="flex flex-wrap  justify-center gap-5 py-3 ">
-             
-             
-             
-             
-             
-
-
-            <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
+              <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
                 <IoMdPerson className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
@@ -151,7 +114,7 @@ const ContactUs = () => {
                 />
               </div>
               <div className="py-4 border rounded-xl  outline-none flex justify-start items-center w-80 ">
-                <HiOutlineMailOpen  className=" w-1/6 text-gray-400" />
+                <HiOutlineMailOpen className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
                   placeholder="Email address"
@@ -166,16 +129,6 @@ const ContactUs = () => {
                   className="outline-none w-5/6 px-1"
                 />
               </div>
-
-
-
-
-              
-
-
-
-
-              
             </div>
 
             <div className=" border rounded-xl  outline-none  h-52  w-full">
