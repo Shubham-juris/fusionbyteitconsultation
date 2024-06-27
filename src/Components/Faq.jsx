@@ -13,6 +13,8 @@ const Faq = () => {
         </div>
       </div>
 
+      
+
       <div className="gap-4 flex sm:flex-row flex-col  sm:px-10">
         <div className=" py-4  sm:w-1/2">
           <FaqAccordion

@@ -242,22 +242,29 @@ const Nabbar = () => {
               <span className="hover:cursor-pointer">
                 <Link to={"/frontenddev"}> Front End Development </Link>
               </span>
-              <span className="hover:cursor-pointer">Backend Devlopment</span>
               <span className="hover:cursor-pointer">
+              <Link to={"/backendDevlopment"}>  Backend Devlopment </Link></span>
+              {/* <span className="hover:cursor-pointer">
                 Fullstack Development
-              </span>
+              </span> */}
               <span className="hover:cursor-pointer">
                 <Link to={"/database"}> Database Management Services </Link>
               </span>
               <span className="hover:cursor-pointer">
                 <Link to={"/mobileappdev"}> Mobile App Development </Link>
               </span>
-              <span className="hover:cursor-pointer">Cloud and Infra</span>
-              <span className="hover:cursor-pointer">
+              {/* <span className="hover:cursor-pointer">Cloud and Infra</span> */}
+              {/* <span className="hover:cursor-pointer">
                 Data Analytics and Reporting
+              </span> */}
+              {/* <span className="hover:cursor-pointer">Ecommerce</span> */}
+              <span className="hover:cursor-pointer">
+
+                <Link to={"/qa"}>QA</Link>
+
+
+
               </span>
-              <span className="hover:cursor-pointer">Ecommerce</span>
-              <span className="hover:cursor-pointer">QA</span>
             </div>
           </div>
 

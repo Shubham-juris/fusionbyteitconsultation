@@ -13,6 +13,8 @@ import MobileAppDev from "./NavPages/MobileAppDev.jsx";
 import SoftwareDevelopment from "./Components/SoftwareDevelopment.jsx";
 import InternshipAndTraining from "./NavPages/InternshipAndTraining.jsx";
 import Privacy from "./Components/Privacy.jsx";
+import BackendDevlopment from "./NavPages/BackendDevlopment.jsx";
+import Qa from "./NavPages/Qa.jsx";
 
 const router = createBrowserRouter([
   {
@@ -52,6 +54,17 @@ const router = createBrowserRouter([
         path: "/softwaredevelopment",
         element: <SoftwareDevelopment />,
       },
+
+      {
+        path: "/backendDevlopment",
+        element: <BackendDevlopment />,
+      },
+
+      {
+        path: "/qa",
+        element: <Qa />,
+      },
+      
       {
         path: "/privacy",
         element: <Privacy />,
