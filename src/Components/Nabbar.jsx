@@ -27,17 +27,15 @@ const Nabbar = () => {
   const [isOpenMenu, setIsOpenMenu] = useState(false);
 
   function HandleHamTrue() {
-    setIsService((perv) => !perv)
+    setIsService((perv) => !perv);
   }
 
-
-
   function HandleisTECHNOLOGIES() {
-    setIsTECHNOLOGIES((perv) => !perv)
+    setIsTECHNOLOGIES((perv) => !perv);
   }
 
   function HandleisPRODUCTS() {
-    setIsPRODUCTS((perv) => !perv)
+    setIsPRODUCTS((perv) => !perv);
   }
 
   return (
@@ -53,8 +51,10 @@ const Nabbar = () => {
           <div className="flex flex-col pt-8 text-white text-2xl font-semibold  text-center gap-4 ">
             <Link to={"/"}>HOME</Link>
 
-            <div className="" >
-              <span onClick={HandleHamTrue} className="px-2 ">SERVICES</span>
+            <div className="">
+              <span onClick={HandleHamTrue} className="px-2 ">
+                SERVICES
+              </span>
 
               <div
                 className={`transition-all duration-500 bg-white text-xs px-2 text-black gap-2.5 flex flex-col w-full overflow-hidden   ${
@@ -78,94 +78,54 @@ const Nabbar = () => {
               <Link to={"/about"}> ABOUT </Link>
             </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div className="" >
-              <span  onClick={HandleisTECHNOLOGIES}>TECHNOLOGIES</span>
+            <div className="">
+              <span onClick={HandleisTECHNOLOGIES}>TECHNOLOGIES</span>
               <div
                 className={`transition-all duration-500 bg-white text-xs px-2 text-black gap-2.5 flex flex-col w-full overflow-hidden   ${
                   isTECHNOLOGIES ? "max-h-96 py-3" : "max-h-0 py-0"
                 }`}
-                  >
-                    <span className="hover:cursor-pointer">
-                <Link to={"/InternshipAndTraining"}>
-                  {" "}
-                  Internship & Training{" "}
-                </Link>
-              </span>
-              <span className="hover:cursor-pointer">
-                <Link to={"/frontenddev"}> Front End Development </Link>
-              </span>
-              <span className="hover:cursor-pointer">Backend Devlopment</span>
-              <span className="hover:cursor-pointer">
-                Fullstack Development
-              </span>
-              <span className="hover:cursor-pointer">
-                <Link to={"/database"}> Database Management Services </Link>
-              </span>
-              <span className="hover:cursor-pointer">
-                <Link to={"/mobileappdev"}> Mobile App Development </Link>
-              </span>
-              <span className="hover:cursor-pointer">Cloud and Infra</span>
-              <span className="hover:cursor-pointer">
-                Data Analytics and Reporting
-              </span>
-              <span className="hover:cursor-pointer">Ecommerce</span>
-              <span className="hover:cursor-pointer">QA</span>
-            
+              >
+                <span className="hover:cursor-pointer">
+                  <Link to={"/InternshipAndTraining"}>
+                    {" "}
+                    Internship & Training{" "}
+                  </Link>
+                </span>
+                <span className="hover:cursor-pointer">
+                  <Link to={"/frontenddev"}> Front End Development </Link>
+                </span>
+                <span className="hover:cursor-pointer">Backend Devlopment</span>
+                <span className="hover:cursor-pointer">
+                  Fullstack Development
+                </span>
+                <span className="hover:cursor-pointer">
+                  <Link to={"/database"}> Database Management Services </Link>
+                </span>
+                <span className="hover:cursor-pointer">
+                  <Link to={"/mobileappdev"}> Mobile App Development </Link>
+                </span>
+                <span className="hover:cursor-pointer">Cloud and Infra</span>
+                <span className="hover:cursor-pointer">
+                  Data Analytics and Reporting
+                </span>
+                <span className="hover:cursor-pointer">Ecommerce</span>
+                <span className="hover:cursor-pointer">QA</span>
               </div>
             </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-           <div >
-            <span  onClick={HandleisPRODUCTS}>PRODUCTS</span>
-               <div className={`transition-all duration-500 bg-white text-xs px-2 text-black gap-2.5 flex flex-col w-full overflow-hidden  ${isPRODUCTS ? "max-h-60 py-3 " : "max-h-0 py-0"}`}>
-                 <span className="">Clients</span>
-                 <span className="">Success Stories</span>
-                 <span className="">Testimonials</span>
-                 <span className="">More Case Studies</span>
-               </div>
-           </div>
+            <div>
+              <span onClick={HandleisPRODUCTS}>PRODUCTS</span>
+              <div
+                className={`transition-all duration-500 bg-white text-xs px-2 text-black gap-2.5 flex flex-col w-full overflow-hidden  ${
+                  isPRODUCTS ? "max-h-60 py-3 " : "max-h-0 py-0"
+                }`}
+              >
+                <span className="">Clients</span>
+                <span className="">Success Stories</span>
+                <span className="">Testimonials</span>
+                <span className="">More Case Studies</span>
+              </div>
+            </div>
             <p>
               <Link to={"/blog"}> BLOG </Link>
             </p>
@@ -243,7 +203,8 @@ const Nabbar = () => {
                 <Link to={"/frontenddev"}> Front End Development </Link>
               </span>
               <span className="hover:cursor-pointer">
-              <Link to={"/backendDevlopment"}>  Backend Devlopment </Link></span>
+                <Link to={"/backendDevlopment"}> Backend Devlopment </Link>
+              </span>
               {/* <span className="hover:cursor-pointer">
                 Fullstack Development
               </span> */}
@@ -259,11 +220,7 @@ const Nabbar = () => {
               </span> */}
               {/* <span className="hover:cursor-pointer">Ecommerce</span> */}
               <span className="hover:cursor-pointer">
-
                 <Link to={"/qa"}>QA</Link>
-
-
-
               </span>
             </div>
           </div>

@@ -157,7 +157,7 @@ function Footer() {
               </div>
               <div>
                 <a
-                  href=""
+                  href="https://youtube.com/@arisezentech?si=2fX6jiz52xh7X1XZ"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
