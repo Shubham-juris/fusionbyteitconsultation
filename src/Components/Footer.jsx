@@ -1,8 +1,10 @@
 import React from "react";
-import { FaFacebookSquare } from "react-icons/fa";
+import { FaFacebookSquare, FaTwitterSquare } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
+import { FaSquarePinterest } from "react-icons/fa6";
 import { IoLogoLinkedin } from "react-icons/io5";
+import { SiGooglemaps } from "react-icons/si";
 import { Link } from "react-router-dom";
 
 function Footer() {
@@ -19,15 +21,20 @@ function Footer() {
             </div>
             <div className="text-white flex flex-col gap-8">
               <p>
-                Forum, DLF Cyber City Rd,
-                <br /> DLF Phase 3, Gurugram,
-                <br />
-                Haryana 122002.
+              Address	:
+                <br /> Noida, UP
+                
               </p>
+
+
               <p>
-                Phone: +91 9024833455
-                <br /> Email: thenawalorghrd@gmail.com
+                Phone : +91-6260900769, +91-9024833455
+                <br /> Email : Info@Arisezen.in
+                <br />
+                Google Email : ArisezenTech@gmail.com
               </p>
+
+
             </div>
           </div>
 
@@ -141,7 +148,7 @@ function Footer() {
             </a>
             <div className="text-white flex flex-wrap  gap-2 pt-3">
               <div>
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="http://fb.com/61561338693343" target="_blank" rel="noopener noreferrer">
                   <FaFacebookSquare size={25} />
                 </a>
               </div>
@@ -155,15 +162,66 @@ function Footer() {
                   <FaInstagram size={25} />
                 </a>
               </div>
+
+
+
               <div>
                 <a
-                  href="https://youtube.com/@arisezentech?si=2fX6jiz52xh7X1XZ"
+                  href="http://youtube.com/@ArisezenTech"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaYoutube size={25} />
                 </a>
               </div>
+
+
+              
+
+
+
+              <div>
+                <a
+                  href="https://maps.app.goo.gl/8x551fLgiq1FwxHy9"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <SiGooglemaps  size={25} />
+                </a>
+              </div>
+
+
+              
+
+
+
+              <div>
+                <a
+                  href="https://www.pinterest.com/arisezen"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaSquarePinterest size={25} />
+                </a>
+              </div>
+
+
+              
+
+
+
+              <div>
+                <a
+                  href="http://x.com/ArisezenTech"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <FaTwitterSquare size={25} />
+                </a>
+              </div>
+
+
+
 
               <div>
                 <a
@@ -184,7 +242,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-          © Copyright  Arisezen ( A Nawal Sustainability Group Product. ) All Rights Reserved
+          © Copyright  Arisezen Tech ( A Nawal Sustainability Group Product. ) All Rights Reserved
           </p>
         </div>
       </div>
