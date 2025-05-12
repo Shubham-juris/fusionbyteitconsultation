@@ -78,7 +78,7 @@ function Contact() {
 
               <button className="bg-green-600 h-10  rounded-md  font-bold w-1/2">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=9024833455&text&type=phone_number&app_absent=0"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

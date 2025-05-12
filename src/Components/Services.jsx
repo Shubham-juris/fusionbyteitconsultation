@@ -30,7 +30,7 @@ function Services() {
       <div className="flex flex-col items-center">
         <p className="font-extrabold pb-3  text-4xl">Services</p>
         <p className="text-center text-xl font-light px-2 ">
-          At Arisezen, we accelerate business outcomes by Rapid Digital
+          At Fusion Byte It Consultation, we accelerate business outcomes by Rapid Digital
           Transformation services.
         </p>
 

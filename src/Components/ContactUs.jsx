@@ -51,18 +51,18 @@ const ContactUs = () => {
             <div className="flex gap-3 items-center justify-start">
               <IoLocationSharp size={40} className="text-purple-700" />
               <p>
-                Forum, DLF Cyber City Rd, DLF Phase 3, Gurugram, Haryana 122002.
+               dryton valley , alberta
               </p>
             </div>
 
-            <div className="flex gap-3 items-center justify-start">
+            {/* <div className="flex gap-3 items-center justify-start">
               <MdCall size={27} className="text-yellow-500" />
-              <p>9024833455</p>
-            </div>
+             
+            </div> */}
 
             <div className="flex gap-3 items-center justify-start">
               <HiOutlineMailOpen size={28} className="text-orange-500" />
-              <p>thenawalorghrd@gmail.com</p>
+              <p>fusionbyte@outlook.com</p>
             </div>
 
             <div className="flex gap-3 py-6 text-orange-600 ">
@@ -70,7 +70,7 @@ const ContactUs = () => {
 
               <div>
                 <a
-                  href="https://www.instagram.com/arisezen2024/"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -80,7 +80,7 @@ const ContactUs = () => {
               <FaYoutube size={40} />
               <div>
                 <a
-                  href="https://www.linkedin.com/showcase/arisezen/"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

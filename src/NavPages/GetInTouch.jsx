@@ -40,7 +40,7 @@ const GetInTouch = () => {
         <div className="flex justify-center sm:gap-10 py-10 sm:flex-row flex-col">
           <div className="hover:text-red-400  bg-white hover:shadow-xl sm:w-3/12 flex flex-col gap-2 justify-center items-center py-10 hover:-translate-y-2 duration-500 ">
             <img src="/Get-In-Touch-Pics/jyukuk.webp" alt="" />
-            <span className="">+91 9024833455</span>
+            <span className=""></span>
           </div>
           <div className="hover:text-red-400  bg-white hover:shadow-xl sm:w-3/12 flex flex-col gap-2 justify-center items-center py-10 hover:-translate-y-2 duration-500">
             <img src="/Get-In-Touch-Pics/download.webp" alt="" />

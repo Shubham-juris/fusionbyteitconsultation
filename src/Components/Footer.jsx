@@ -22,16 +22,16 @@ function Footer() {
             <div className="text-white flex flex-col gap-8">
               <p>
               Address	:
-                <br /> Noida, UP
+                <br /> DRAYTON VALLEY, ALBERTA
                 
               </p>
 
 
               <p>
-                Phone : +91-6260900769, +91-9024833455
-                <br /> Email : Info@Arisezen.in
-                <br />
-                Google Email : ArisezenTech@gmail.com
+                
+                <br /> FUSIONBYTE@OUTLOOK.COM
+                
+                
               </p>
 
 
@@ -148,14 +148,14 @@ function Footer() {
             </a>
             <div className="text-white flex flex-wrap  gap-2 pt-3">
               <div>
-                <a href="http://fb.com/61561338693343" target="_blank" rel="noopener noreferrer">
+                <a href="/" target="_blank" rel="noopener noreferrer">
                   <FaFacebookSquare size={25} />
                 </a>
               </div>
 
               <div>
                 <a
-                  href="https://www.instagram.com/arisezen2024/"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -167,7 +167,7 @@ function Footer() {
 
               <div>
                 <a
-                  href="http://youtube.com/@ArisezenTech"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -182,7 +182,7 @@ function Footer() {
 
               <div>
                 <a
-                  href="https://maps.app.goo.gl/8x551fLgiq1FwxHy9"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -197,7 +197,7 @@ function Footer() {
 
               <div>
                 <a
-                  href="https://www.pinterest.com/arisezen"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -212,7 +212,7 @@ function Footer() {
 
               <div>
                 <a
-                  href="http://x.com/ArisezenTech"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -225,7 +225,7 @@ function Footer() {
 
               <div>
                 <a
-                  href="https://www.linkedin.com/showcase/arisezen/"
+                  href="/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -242,7 +242,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-          © Copyright  Arisezen Tech ( A Nawal Sustainability Group Product. ) All Rights Reserved
+          © Copyright  Fusion Byte It Consultation Tech @2024 All Rights Reserved
           </p>
         </div>
       </div>

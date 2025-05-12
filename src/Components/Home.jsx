@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import HeroCarousel from "./HeroCarousel";
 import Services from "./Services";
 import OurProduct from "./OurProduct";
-import WhyArisezen from "./WhyArisezen";
+import WhyFusion from "./WhyArisezen";
 import Contact from "./Contact";
 import BusinessCentric from "./BusinessCentric";
 import Footer from "./Footer";
@@ -25,13 +25,9 @@ const Home = () => {
       <HeroCarousel />
       <Services />
       <OurProduct />
-      <Contact />
-      <WhyArisezen />
+      {/* <Contact /> */}
+      <WhyFusion/>
       <BusinessCentric />
-
-      
-
-
       <Faq />
       <Footer />
     </>

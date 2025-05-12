@@ -33,7 +33,7 @@ function HeroCarousel() {
                   Building careers. Building organisations.
                 </span>
                 <span className="sm:text-xl text-[9px] text-white font-bold ">
-                  Arisezen is India's leading executive search and talent
+                  Fusion Byte It Consultation is India's leading executive search and talent
                   advisory firm, proudly shaping the future of multinationals
                   and Indian businesses for over years
                 </span>
