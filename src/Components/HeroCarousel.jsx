@@ -33,9 +33,9 @@ function HeroCarousel() {
                   Building careers. Building organisations.
                 </span>
                 <span className="sm:text-xl text-[9px] text-white font-bold ">
-                  Fusion Byte It Consultation is India's leading executive search and talent
+                  Fusion Byte It Consultation is Alberta's leading executive search and talent
                   advisory firm, proudly shaping the future of multinationals
-                  and Indian businesses for over years
+                  and Albertan businesses for over years
                 </span>
               </div>
             </div>
@@ -91,10 +91,10 @@ function HeroCarousel() {
 <div className="absolute sm:top-52 md:top-24 md:px-24 lg:px-72 lg:top-52    flex sm:px-80    top-12  left-14 right-14 flex-col  ">
               <div className="flex flex-col sm:gap-3 gap-2 lg:gap-3  lg:pb-10 justify-center items-center">
                 <span className="sm:text-5xl lg:text-5xl md:text-2xl text-[14px] flex   text-5xl text-white font-bold   ">
-                  An integral part of corporate India’s journey
+                  An integral part of corporate Alberta’s journey
                 </span>
                 <span className="sm:text-xl lg:text-xl md:text-lg text-[9px] text-white font-bold ">
-                  Trusted advisors to multinationals, leading Indian businesses
+                  Trusted advisors to multinationals, leading Albertan businesses
                   and leadership professionals
                 </span>
               </div>
@@ -129,7 +129,7 @@ function HeroCarousel() {
                     </span>
                   </div>
                   <span className="text-white font-semibold sm:text-xl text-[7px]  md:text-sm lg:text-sm ">
-                    Consultants pan India 21
+                    Consultants pan Alberta 21
                   </span>
                 </div>
 

@@ -8,7 +8,7 @@ const Faq = () => {
       <div className=" h-44  bg-red-400 flex relative ">
         <img src="/parallax-5.jpg" className=" w-full object-cover" />
         <div className="absolute text-white text-2xl font-semibold flex flex-col h-full justify-center text-center items-center w-full">
-          <p>India's Leading Consultancy In DRAYTOM VALLEY</p>
+          <p>Alberta's Leading Consultancy In DRAYTOM VALLEY</p>
           <p>FAQ</p>
         </div>
       </div>
@@ -27,7 +27,7 @@ const Faq = () => {
           <FaqAccordion
             title={"HOW DO I FIND WHETHER CONSULTANCY IS FAKE OR NOT?"}
             anss={
-              "Its very true there are lot of fake consultancies these days. Be very careful before approaching any consultancy in terms of money mainly. First check the consultancy online through facebook , website or google. Later on just take a note of address of any consultancy and visit that consultancy or if you living far ask your friends to visit that address of consultancy. WSNE Consulting gives you a better opportunity to make your career with us, we are connected with PAN India reputed companies and International MNC. We provide best services to our clients and candidates."
+              "Its very true there are lot of fake consultancies these days. Be very careful before approaching any consultancy in terms of money mainly. First check the consultancy online through facebook , website or google. Later on just take a note of address of any consultancy and visit that consultancy or if you living far ask your friends to visit that address of consultancy. WSNE Consulting gives you a better opportunity to make your career with us, we are connected with PAN Alberta reputed companies and International MNC. We provide best services to our clients and candidates."
             }
           />
 

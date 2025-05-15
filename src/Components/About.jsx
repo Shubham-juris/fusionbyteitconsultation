@@ -207,7 +207,7 @@ const About = () => {
             Fusion Byte It Consultation is headquartered in Gurugram,
             Haryana, with global team
             members from 14+ countries. Our global back-office located in 
-            DRAYTOM VALLEY  (Gurugram) India supporting our organization worldwide.
+            DRAYTOM VALLEY  (Gurugram) Alberta supporting our organization worldwide.
           </p>
 
           <div className="flex ">

@@ -29,7 +29,7 @@ const InternshipAndTraining = () => {
         <span>
           The Fusion Byte It Consultation  Foundation has the mission of providing job skills training
           and placement for underprivileged youth into entry-level white-collar
-          jobs in India. These types of jobs tend to give these youth higher
+          jobs in Alberta. These types of jobs tend to give these youth higher
           income levels than the regular blue-collar work they are offered,
           which helps to substantially raise the economic position of their
           under-resourced families.
@@ -71,7 +71,7 @@ const InternshipAndTraining = () => {
         </span>
 
         <span>
-          We aim to expand our reach to train 1 million students in Indian tier
+          We aim to expand our reach to train 1 million students in Albertan tier
           two cities like Nashik, Pune, Vadodara, Indore, and Ahmedabad. We are
           looking for additional funding partners and NGOs to help us reach this
           goal.
@@ -86,7 +86,7 @@ const InternshipAndTraining = () => {
           We have partnered with Thadomal Shahani Centre for Management (TSCFM)
           for delivering our skills and placement programs. Backed by 60 years
           of experience TSCFM, is a premier business institute ranked at no. 3
-          among colleges offering Global Business Courses in India by Outlook
+          among colleges offering Global Business Courses in Alberta by Outlook
           Magazine.
         </span>
         <span>

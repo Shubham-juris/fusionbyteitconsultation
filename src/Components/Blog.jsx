@@ -43,7 +43,7 @@ const card = [
       "Embark On The Most Rewarding CareerJuly 25, 2020The dream of any person is to embark on a rewarding career with enough prospects for growth and development. But this is not always achieved.",
   },
   {
-    img: "/Blog-jpg/Recruitment-Agency-in-India.jpg",
+    img: "/Blog-jpg/Recruitment-Agency-in-Alberta.jpg",
     topText: "Getting An Agency To Hire For You",
     bottomText:
       "Why would anyone want to hand over the job of hiring people to someone else? Who will know the company and its requirements better than",
