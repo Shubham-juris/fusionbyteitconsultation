@@ -18,7 +18,7 @@ function WhyFusion() {
     <div className="py-12 ">
       <div className="text-black flex flex-col justify-center items-center md:px-48 mx-3 ">
         <p className="text-4xl font-extrabold pb-4 bg-gradient-to-r from-teal-200 to-blue-500 text-transparent bg-clip-text">
-          Why Fusion Byte It Consultation
+          Why Fusion Byte IT Consultation
         </p>
         <p className="text-center text-xl font-light">
           We are an outcome-focused and result-conscious organization that
