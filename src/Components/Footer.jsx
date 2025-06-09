@@ -73,7 +73,7 @@ function Footer() {
               href="#"
               class="text-gray-400 hover:text-gray-100 transition duration-300"
             >
-              Terms of service
+              
             </a>
             <a
               href="#"
@@ -84,7 +84,7 @@ function Footer() {
           </div>
           <div className="text-white flex flex-col gap-2 py-3">
             <a href="#" class="text-2xl">
-              Our Services
+              
             </a>
             <a
               href="#"
@@ -148,31 +148,17 @@ function Footer() {
             </a>
             <div className="text-white flex flex-wrap  gap-2 pt-3">
               <div>
-                <a href="/" target="_blank" rel="noopener noreferrer">
-                  <FaFacebookSquare size={25} />
-                </a>
+                
               </div>
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaInstagram size={25} />
-                </a>
+               
               </div>
 
 
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaYoutube size={25} />
-                </a>
+                
               </div>
 
 
@@ -181,13 +167,7 @@ function Footer() {
 
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <SiGooglemaps  size={25} />
-                </a>
+                
               </div>
 
 
@@ -196,13 +176,7 @@ function Footer() {
 
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaSquarePinterest size={25} />
-                </a>
+                
               </div>
 
 
@@ -211,26 +185,14 @@ function Footer() {
 
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaTwitterSquare size={25} />
-                </a>
+                
               </div>
 
 
 
 
               <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <IoLogoLinkedin size={25} />
-                </a>
+                
               </div>
             </div>
           </div>
@@ -242,7 +204,7 @@ function Footer() {
 
         <div className="flex justify-center  text-center">
           <p className="text-gray-400 font font-thin">
-          © Copyright  Fusion Byte It Consultation Tech @2024 All Rights Reserved
+          © Copyright  Fusion Byte IT Consultation Tech @2024 All Rights Reserved
           </p>
         </div>
       </div>
