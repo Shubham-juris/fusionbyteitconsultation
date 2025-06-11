@@ -63,12 +63,7 @@ function Footer() {
               <Link to={"/blog"}> Blog </Link>
             </a>
 
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Services
-            </a>
+           
             <a
               href="#"
               class="text-gray-400 hover:text-gray-100 transition duration-300"
@@ -86,42 +81,7 @@ function Footer() {
             <a href="#" class="text-2xl">
               
             </a>
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Modernize Software
-            </a>
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Cloud Consulting Services
-            </a>
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              AI/ML Development
-            </a>
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Cyber Security Solutions
-            </a>
-            <a
-              href="#"
-              class="text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Digital Marketing
-            </a>
-            <a
-              href="#"
-              class=" text-gray-400 hover:text-gray-100 transition duration-300"
-            >
-              Political Campaign
-            </a>
+           
           </div>
 
           <div className="py-3 flex flex-col gap-2 ">
