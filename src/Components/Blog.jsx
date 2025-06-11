@@ -95,10 +95,7 @@ const Blog = () => {
           ))}
         </div>
 
-        <div className="flex items-center text-center py-8 px-3 flex-col bg-indigo-900 text-white hover:bg-red-600 transition-all duration-700">
-          <p className="text-2xl font-semibold">Got A Question?</p>
-          <p>We're here to help. Send us an email or call us at 9024833455</p>
-        </div>
+      
       </div>
       <Footer />
     </div>
