@@ -79,7 +79,7 @@ const ContactUs = () => {
                 <IoMdPerson className=" w-1/6 text-gray-400" />
                 <input
                   type="text"
-                  placeholder="Frist name"
+                  placeholder="First name"
                   className="outline-none w-5/6 px-1"
                 />
               </div>
