@@ -65,29 +65,8 @@ const ContactUs = () => {
               <p>fusionbyte@outlook.com</p>
             </div>
 
-            <div className="flex gap-3 py-6 text-orange-600 ">
-              <FaFacebookSquare size={40} />
-
-              <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaInstagram size={40} />
-                </a>
-              </div>
-              <FaYoutube size={40} />
-              <div>
-                <a
-                  href="/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <IoLogoLinkedin size={40} />
-                </a>
-              </div>
-            </div>
+            
+            
           </div>
 
           <div className=" sm:w-2/3 sm:px-4 pt-4 pb-10 ">
